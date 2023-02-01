@@ -1,0 +1,4 @@
+fabric:
+  peers:
+  - "peer1.orgY.com"
+  - "peer2.orgY.com"

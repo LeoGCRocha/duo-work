@@ -1,0 +1,8 @@
+fabric:
+  peers:
+  - "peer1.org0.example.com"
+  - "peer2.org0.example.com"
+  - "peer1.orgX.com"
+  - "peer2.orgX.com"
+  orderers:
+  - "orderer1.orgX-orderer.com"
