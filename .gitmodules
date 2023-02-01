@@ -1,0 +1,3 @@
+[submodule "minifabric"]
+	path = lab/minifabric
+	url = https://github.com/ct-blockchain/minifabric
